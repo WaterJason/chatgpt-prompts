@@ -71,7 +71,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the CC0-1.0 License.',
-      copyright: 'Copyright © 2023 <a href="https://tangjie.me/" target="_blank">唐杰</a>',
+      copyright: 'Copyright © 2023 <a href="http://ai-gc.cc/" target="_blank">GPT新手营地</a>',
     },
 
     outlineTitle: '本页导览',
@@ -80,7 +80,7 @@ export default defineConfig({
     darkModeSwitchLabel: '深色模式',
 
     editLink: {
-        pattern: 'https://github.com/jevantang/chatgpt-prompts/blob/main/docs/:path',
+        pattern: 'https://github.com/WaterJason/chatgpt-prompts/blob/main/docs/:path',
         text: '为此页贡献新引导语'
     },
 
