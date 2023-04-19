@@ -31,6 +31,7 @@ export default defineConfig({
           { text: '翻译', link: '/general/translation' },
           { text: '办公', link: '/general/office' },
           { text: '学习', link: '/general/learn' },
+          { text: '入门手册', link: '/general/chatgpt' },
         ]
       },
       {
