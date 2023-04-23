@@ -11,7 +11,7 @@ export default defineConfig({
       ['meta', { property: 'og:title', content: 'GPT新手营地' }],
       ['meta', { property: 'og:description', content: '分门别类的 ChatGPT 引导语大全' }],
       ['meta', { property: 'og:image', content: 'https://cdn.fresns.cn/wiki/chatgpt/og-image.jpg' }],
-      ['meta', { property: 'og:url', content: 'https://prompt.ai-gc.cc' }],
+      ['meta', { property: 'og:url', content: 'http://prompt.ai-gc.cc' }],
   ],
 
   themeConfig: {
