@@ -71,7 +71,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the CC0-1.0 License.',
-      copyright: 'Copyright © 2023 <a href="http://ai-gc.cc/" target="_blank">GPT新手营地</a>',
+      copyright: 'Copyright © 2023 <a href="http://www.ai-gc.cc/" target="_blank">GPT新手营地</a>',
     },
 
     outlineTitle: '本页导览',
