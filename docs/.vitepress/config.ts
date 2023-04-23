@@ -11,7 +11,7 @@ export default defineConfig({
       ['meta', { property: 'og:title', content: 'GPT新手营地' }],
       ['meta', { property: 'og:description', content: '分门别类的 ChatGPT 引导语大全' }],
       ['meta', { property: 'og:image', content: 'https://cdn.fresns.cn/wiki/chatgpt/og-image.jpg' }],
-      ['meta', { property: 'og:url', content: 'https://prompts.fresns.cn' }],
+      ['meta', { property: 'og:url', content: 'https://prompt.ai-gc.cc' }],
   ],
 
   themeConfig: {
@@ -21,7 +21,6 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '引导语', link: '/general/translation', activeMatch: `^/(general|life|it|cultural)/`, },
       { text: '更新日志', link: '/changelog' },
-      { text: 'Fresns', link: 'https://fresns.cn' },
     ],
 
     sidebar: [
